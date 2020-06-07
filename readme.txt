@@ -1,0 +1,1 @@
+Solo funciona con la version keras==2.2.5 y tensorflow==1.14
